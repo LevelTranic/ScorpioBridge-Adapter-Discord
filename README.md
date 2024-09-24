@@ -1,0 +1,1 @@
+# ScorpioBridge-Adapter-Discord
